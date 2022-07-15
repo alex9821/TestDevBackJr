@@ -5,7 +5,7 @@ Prueba: **DESARROLLADOR JR**
 
 Deadline: **1 día**
 
-Nombre: 
+Nombre:Alejandro Vazquez Cruz 
 
 ------
 ## Clona y crea tu repositorio para la evaluación ##
